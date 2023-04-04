@@ -484,6 +484,7 @@ for x in range(10000):
 
 def clear():
 
+	
 	os.system('clear')	print(logo)
 
 	#
